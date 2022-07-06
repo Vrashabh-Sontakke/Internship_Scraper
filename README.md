@@ -1,13 +1,11 @@
-# Web-Scraper-Internshala.com [Python 3.7+]
-  >Last Updated on 19/09/2020
-  
-![Internshala Logo](https://github.com/het-parekh/Web-Scraper-Internshala.com/blob/master/Screenshots/Internshala%20logo.jpg)
+# Internship Scraper (Python 3.7+)
+
+Web Scraping internships from internshala.com website.
 
 ### Third Party Libraries Required :
 1. requests [To fetch the Url content ]
 2. BeautifulSoup4 [Library used for web scraping]
 3. xlwt [To export the data to a Excel File with multiple sheets]
-
 
 ### Different filters are available such as :
 - Include work from home
@@ -73,8 +71,6 @@ Different pages on different sheets?(Default: Yes) | 1: No
 Enter the name of the file
 Web_Dev
 ```
-![Excel File 1](https://github.com/het-parekh/Web-Scraper-Internshala.com/blob/master/Screenshots/Screenshot%201.png)
-![Excel File 2](https://github.com/het-parekh/Web-Scraper-Internshala.com/blob/master/Screenshots/Screenshot%202.png)
 
 
 
