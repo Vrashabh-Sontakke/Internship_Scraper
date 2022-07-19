@@ -7,6 +7,12 @@ Web Scraping internships from internshala.com website.
 2. BeautifulSoup4 [Library used for web scraping]
 3. xlwt [To export the data to a Excel File with multiple sheets]
 
+### How to RUN the project :
+- Please make sure that Python 3.7+ and other third party libraries are installed.
+- Clone the project using command : $ git clone https://github.com/Vrashabh-Sontakke/Internship_Scraper.git
+- Change directoy using command: $ cd <project_name>
+- Run the project using command: $ python main.py
+
 ### Different filters are available such as :
 - Include work from home
 - Part-time
